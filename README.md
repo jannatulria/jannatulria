@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Jannatul Ria 👋  
 
-<!--
-**jannatulria/jannatulria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 C++ & Data Structures Learner  
+🎨 Passionate about Graphics Design & Video Editing  
+🚀 Aspiring Software Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a Computer Science student who enjoys solving problems and building logical thinking through programming.  
+Alongside coding, I love working on creative projects like graphic design and video editing.  
+I believe in combining creativity with technology to build meaningful digital experiences.
+
+---
+
+## 🔧 Technical Skills
+- C++
+- Data Structures (Basics)
+- Algorithms (Linear Search, Binary Search)
+- Problem Solving
+
+---
+
+## 🎨 Creative Skills
+- Graphic Design (Canva / Photoshop basics)
+- Video Editing (CapCut / Premiere Pro basics)
+
+---
+
+## 📌 Projects
+- 🔍 Linear & Binary Search Implementation in C++
+- (More projects coming soon...)
+
+---
+
+## 🌱 Currently Learning
+- Advanced Data Structures
+- Competitive Programming Basics
+- Software Development Fundamentals
+
+---
+
+✨ *"Learning something new every day and building my future step by step."*
