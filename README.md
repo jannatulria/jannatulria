@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jannatul Ria</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=500&lines=Computer+Science+Student;C%2B%2B+Learner;Data+Structures+Enthusiast;Graphics+Designer+%26+Video+Editor;Future+Software+Developer" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
-🎓 CSE Student passionate about technology and creativity  
+🎓 Computer Science Student passionate about technology & creativity  
 💻 Currently learning **C++ & Data Structures**  
 🎨 Skilled in **Graphics Design & Video Editing**  
-🚀 Goal: To become a professional Software Developer  
+🚀 Aspiring Software Developer  
 
 ---
 
@@ -31,24 +34,19 @@
 
 ## 📌 Projects
 🔍 **Linear & Binary Search (C++)**  
-More projects coming soon...
+More exciting projects coming soon...
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jannatulria&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jannatulria&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Data Structures  
-- Competitive Programming  
-- Software Development Fundamentals  
-
----
-
 <p align="center">
-✨ <i>“Learning something new every day and building my future step by step.”</i>
+✨ <i>"Learning something new every day and building my future step by step."</i>
 </p>
