@@ -1,44 +1,54 @@
-# Hi, I'm Jannatul Ria 👋  
-
-🎓 Computer Science Student  
-💻 C++ & Data Structures Learner  
-🎨 Passionate about Graphics Design & Video Editing  
-🚀 Aspiring Software Developer  
+<h1 align="center">Hi 👋, I'm Jannatul Ria</h1>
+<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
 
 ---
 
 ## 👩‍💻 About Me
-I am a Computer Science student who enjoys solving problems and building logical thinking through programming.  
-Alongside coding, I love working on creative projects like graphic design and video editing.  
-I believe in combining creativity with technology to build meaningful digital experiences.
+🎓 CSE Student passionate about technology and creativity  
+💻 Currently learning **C++ & Data Structures**  
+🎨 Skilled in **Graphics Design & Video Editing**  
+🚀 Goal: To become a professional Software Developer  
 
 ---
 
 ## 🔧 Technical Skills
-- C++
-- Data Structures (Basics)
-- Algorithms (Linear Search, Binary Search)
-- Problem Solving
+<p>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Algorithms-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-purple?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🎨 Creative Skills
-- Graphic Design (Canva / Photoshop basics)
-- Video Editing (CapCut / Premiere Pro basics)
+<p>
+<img src="https://img.shields.io/badge/Graphic%20Design-pink?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Video%20Editing-red?style=for-the-badge" />
+</p>
 
 ---
 
 ## 📌 Projects
-- 🔍 Linear & Binary Search Implementation in C++
-- (More projects coming soon...)
+🔍 **Linear & Binary Search (C++)**  
+More projects coming soon...
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jannatulria&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Data Structures
-- Competitive Programming Basics
-- Software Development Fundamentals
+- Advanced Data Structures  
+- Competitive Programming  
+- Software Development Fundamentals  
 
 ---
 
-✨ *"Learning something new every day and building my future step by step."*
+<p align="center">
+✨ <i>“Learning something new every day and building my future step by step.”</i>
+</p>
